@@ -28,7 +28,8 @@ For easy graphing and storing solution of the data I recommend using the follwin
 ---------------
 ###Remote Control Web Application 
  
-   Part not yet submitted yet to the project
+   Part not yet submitted to the project will follow.
+   Contains basic web application for controlling all the RGB LED lamps in my household.
 
 ---------------
 ###Mqtt Server (mosquitto)
