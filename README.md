@@ -27,10 +27,14 @@ For easy graphing and storing solution of the data I recommend using the follwin
 
 ---------------
 ###Remote Control Web Application 
- 
-   Part not yet submitted to the project will follow.
-   Contains basic web application for controlling all the RGB LED lamps in my household.
 
+   Contains basic web application for controlling all the RGB LED lamps in my household.
+   To get the html application to work 
+   -Install you standard basic apache2 with php.
+   -Configure a vhost or site location
+   -Copy there the contents of the /html folder
+   -Edit settings.php and configure the MQTT server settings along with the declaration of you NodeMCU devices.
+  
 ---------------
 ###Mqtt Server (mosquitto)
 
